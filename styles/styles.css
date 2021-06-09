@@ -1,0 +1,52 @@
+.shop {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-gap: 40px;
+}
+
+.block_body {
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
+    width: 300px;
+    border: 3px solid #e2e2e2;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.text_block {
+    margin: 30px 25px 30px 25px;
+}
+
+.product_photo {
+    height: 205px;
+}
+
+.price_block {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.price_bold {
+    font-size: 35px;
+    color: #333333;
+    display: inline;
+    font-weight: bolder;
+}
+
+.prod_title {
+    margin-top: 0px;
+    color: #333333;
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: bolder;
+}
+
+.buy_icon {
+    height: 40px;
+    width: 50px;
+    border-radius: 5px;
+    float: right;
+}
+
+;
